@@ -1,0 +1,11 @@
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\bin\Debug\snake-game.exe.config
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\bin\Debug\snake-game.exe
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\bin\Debug\snake-game.pdb
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake-game.csproj.AssemblyReference.cache
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake-game.csproj.SuggestedBindingRedirects.cache
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake_game.Form1.resources
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake_game.Properties.Resources.resources
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake-game.csproj.GenerateResource.cache
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake-game.csproj.CoreCompileInputs.cache
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake-game.exe
+C:\Users\tesdi\OneDrive\Masaüstü\csDili\snake-game\obj\Debug\snake-game.pdb
